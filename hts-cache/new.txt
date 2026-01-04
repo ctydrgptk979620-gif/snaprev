@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:24:02	795/795	---M--	301	error ('Moved%20Permanently')	text/html	date:Sun,%2004%20Jan%202026%2003:24:02%20GMT	http://isocial.live/robots.txt		(from )
+19:24:03	795/795	---M--	301	error ('Moved%20Permanently')	text/html	date:Sun,%2004%20Jan%202026%2003:24:03%20GMT	http://isocial.live/snapchat/	/Users/bmg/websites/snaprev/isocial.live/snapchat/index.html	(from )
+19:24:04	795/795	---M--	301	error ('Moved%20Permanently')	text/html	date:Sun,%2004%20Jan%202026%2003:24:04%20GMT	http://isocial.live/snapchat/	/Users/bmg/websites/snaprev/isocial.live/snapchat/index.html	(from )
